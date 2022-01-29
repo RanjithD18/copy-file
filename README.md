@@ -29,7 +29,7 @@ with open('file2.txt','w') as file2:
 ~~~
 
 ### OUTPUT:
-![output]()
+![output](https://github.com/RanjithD18/copy-file/blob/main/Screenshot%20(79).png)
 
 
 ## RESULT:
